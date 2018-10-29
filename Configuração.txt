@@ -1,0 +1,1 @@
+Maquina hospedado na DigitalOcean,UBUNTU LINUX , 1GB de memória e 25GB de disco com monitoramento de consumos de CPU, Memória e Disco.
